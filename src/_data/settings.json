@@ -1,20 +1,20 @@
 {
-  "metaTitle": "Your Meta Title",
-  "metaDescription": "Your meta description.",
-  "logoTitle": "Your Name",
-  "heroImage": "/assets/images/philipe-cavalcante-xe68QiMaDrQ-unsplash-770x190.jpg",
-  "heroCaption": "Your short description of who you are",
+  "metaTitle": "American Indian Law Alliance - Social Media",
+  "metaDescription": "The American Indian Law Alliance (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.",
+  "logoTitle": "American Indian Law Alliance",
+  "heroImage": "/assets/images/aila-cover.png",
+  "heroCaption": "American Indian Law Alliance: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)",
   "social": {
-    "dev": "https://dev.to/",
+    "dev": "",
     "dribbble": "",
-    "facebook": "",
-    "github": "https://github.com/",
-    "instagram": "https://instagram.com/",
-    "linkedin": "http://www.linkedin.com/",
-    "pinterest": "https://pinterest.com/",
-    "twitter": "https://twitter.com/",
+    "facebook": "https://facebook.com/americanindianlawalliance",
+    "github": "",
+    "instagram": "",
+    "linkedin": "",
+    "pinterest": "",
+    "twitter": "https://twitter.com/AILAnyc",
     "youtube": "",
-    "email": "you@your-email.com"
+    "email": "aila@aila.ngo"
   },
   "stats": {
     "google": "",
