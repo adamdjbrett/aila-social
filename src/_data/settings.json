@@ -21,18 +21,18 @@
     "fathom": ""
   },
   "colors": {
-    "background": "#2e1065",
+    "background": "#49147F",
     "bodyText": "#ffffff",
-    "navBar": "#2e1065",
+    "navBar": "#49147F",
     "navText": "#ffffff",
-    "navTextHover": "#f5f3ff",
+    "navTextHover": "#079999",
     "navTextBackgroundHover": "#ede9fe",
     "heroCaption": "#ffffff",
     "btnBackground": "#d8b4fe",
-    "btnBorder": "#ffffff",
-    "btnHover": "#f5f3ff",
+    "btnBorder": "#079999",
+    "btnHover": "#079999",
     "btnLink": "#c084fc",
     "svgColor": "#a855f7",
-    "svgHover": "f5f3ff"
+    "svgHover": "#079999"
   }
 }
