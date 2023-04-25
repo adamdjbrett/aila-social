@@ -22,17 +22,17 @@
   },
   "colors": {
     "background": "#49147F",
-    "bodyText": "#ffffff",
-    "navBar": "#49147F",
-    "navText": "#ffffff",
-    "navTextHover": "#079999",
-    "navTextBackgroundHover": "#ede9fe",
-    "heroCaption": "#ffffff",
-    "btnBackground": "#d8b4fe",
-    "btnBorder": "#079999",
-    "btnHover": "#079999",
-    "btnLink": "#c084fc",
-    "svgColor": "#a855f7",
-    "svgHover": "#079999"
+    "bodyText": "",
+    "navBar": "",
+    "navText": "",
+    "navTextHover": "",
+    "navTextBackgroundHover": "",
+    "heroCaption": "",
+    "btnBackground": "",
+    "btnBorder": "",
+    "btnHover": "",
+    "btnLink": "",
+    "svgColor": "",
+    "svgHover": ""
   }
 }
