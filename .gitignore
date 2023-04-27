@@ -1,3 +1,9 @@
+# System Files
+.bundle
+.sass-cache
+.DS_Store
+*.icloud
+
 # Logs
 logs
 *.log
