@@ -1,4 +1,5 @@
 .DS_Store
+*.DS_Store
 
 # System Files
 .bundle
@@ -109,4 +110,3 @@ dist
 
 # TernJS port file
 .tern-port
-.DS_Store
