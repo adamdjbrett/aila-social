@@ -1,11 +1,11 @@
 repo_name: adamdjbrett/aila-social
-report_id: 1a3f0f6c1538b636bd9a1e75fd32ed3f
+report_id: d5835902994d02f5a7575ebbe16d28d4
 repo_type: Public
-timestamp: '2023-11-15T03:25:17+00:00'
+timestamp: '2023-12-14T10:41:39+00:00'
 requested_by: adamdjbrett
 provider: github
 branch: main
-detected_tools_count: 14
+detected_tools_count: 15
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +34,30 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source: package.json
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2023-04-22 02:27:04.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source: package.json
+  last_updated_by: Adam DJ Brett
+  last_updated_on: 2023-04-22 02:27:04.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
@@ -88,7 +112,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16552/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
@@ -102,7 +126,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16905/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
@@ -116,43 +140,10 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
-- name: postcss
-  description: Tool for transforming styles with JS plugins
-  package_url: https://www.npmjs.com/postcss
-  version: 7.0.35
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
-  last_updated_by: Adam DJ Brett
-  last_updated_on: 2023-04-22 02:27:04.000000000 Z
-  vulnerabilities:
-  - name: PostCSS line return parsing error
-    cve_id: CVE-2023-44270
-    cve_url: https://github.com/advisories/GHSA-7fh5-64p2-3v2j
-    detected_date: Oct 4
-    severity: moderate
-    first_patched: 8.4.31
-  - name: Regular Expression Denial of Service in postcss
-    cve_id: CVE-2021-23382
-    cve_url: https://github.com/advisories/GHSA-566m-qj78-rww5
-    detected_date: Jan 28
-    severity: moderate
-    first_patched: 7.0.36
-  - name: Regular Expression Denial of Service in postcss
-    cve_id: CVE-2021-23368
-    cve_url: https://github.com/advisories/GHSA-hwj9-h5mp-3pm3
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 7.0.36
 - name: postcss-cli
   description: CLI for PostCSS
   package_url: https://www.npmjs.com/postcss-cli
@@ -163,7 +154,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
@@ -177,7 +168,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
@@ -191,7 +182,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/adamdjbrett/aila-social/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Adam DJ Brett
   last_updated_on: 2023-04-22 02:27:04.000000000 Z
