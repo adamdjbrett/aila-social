@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://aila.li/giwc-es",
-    "text": "Documento Colaborativo GIWC Español"
-  },
-  {
-    "url": "https://aila.li/giwc-en",
-    "text": "GIWC English Collaborative Document"
-  },
-  {
-    "url": "https://aila.ngo/global-indigenous-womens-caucus-2024/",
-    "text": "Global Indigenous Women's Caucus 2024 Invitation"
-  },
-  {
     "url": "https://aila.ngo/global-indigenous-peoples-caucus-2024/",
     "text": "Global Indigenous People’s Caucus 2024 Invitation"
   },
@@ -94,5 +82,21 @@
   {
     "url": "https://bit.ly/TRANSLATIONS-UNPFII23",
     "text": "DOCIP Translation Request form"
+  },
+  {
+    "url": "#",
+    "text": "Concluded 2024 events"
+  },
+  {
+    "url": "https://aila.li/giwc-es",
+    "text": "Documento Colaborativo GIWC Español"
+  },
+  {
+    "url": "https://aila.li/giwc-en",
+    "text": "GIWC English Collaborative Document"
+  },
+  {
+    "url": "https://aila.ngo/global-indigenous-womens-caucus-2024/",
+    "text": "Global Indigenous Women's Caucus 2024 Invitation"
   }
 ]
