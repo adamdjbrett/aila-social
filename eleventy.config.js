@@ -2,7 +2,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-// import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
 import yaml from "js-yaml";
@@ -19,11 +19,12 @@ export default async function(eleventyConfig) {
 	// For example, `./public/css/` ends up in `_site/css/`
 	eleventyConfig
 		.addPassthroughCopy({
-			"./public/": "/"
+			"./public/": "/",
+			"./content/images": "/images"
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
-eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+    eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
@@ -75,21 +76,21 @@ eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 	});
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-//	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// File extensions to process in _site folder
-//		extensions: "html",
+		extensions: "html",
 
 		// Output formats for each image.
-//		formats: ["avif", "webp", "auto"],
+		formats: ["avif", "webp", "auto"],
 
-		// widths: ["auto"],
+		 widths: ["auto"],
 
-//		defaultAttributes: {
+		defaultAttributes: {
 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-//			loading: "lazy",
-//			decoding: "async",
-//		}
-//	});
+			loading: "lazy",
+			decoding: "async",
+		}
+	});
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);

@@ -6,7 +6,7 @@ export default {
 	locale: "en_US",
 	description: "The American Indian Law Alliance (AILA) is an Indigenous NGO that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.",
 	metasocial: {
-		image: "/img/potos.jpg",
+		image: "/img/aila-cover-originial.png",
 		facebook: "https://facebook.com/americanindianlawalliance",
 		twitteruser: "@AILAnyc",
 		twitter: "https://twitter.com/AILAnyc"
