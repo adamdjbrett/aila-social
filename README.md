@@ -10,7 +10,7 @@ Mobile Test
 
 Desktop Test
 
-![Adam Dj Brett Link Lists](mobile.png)
+![Adam Dj Brett Link Lists](desktop.png)
 
 ### First Setup
 
