@@ -26,4 +26,11 @@ example: `fa-solid fa-envelope`
 
 To update link list , open `content/index.md`
 
+### Content Image
+
+if you want to add image in to your content article , you can upload your image or media file in to `content/images`
+
+and insert image in to your post or frontmatter, example :
+
+`image: /images/myphoto.png`
 
