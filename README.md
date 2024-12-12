@@ -18,6 +18,8 @@ Use fontawesome icon - https://fontawesome.com/search
 
 copy paste icon in to icon menu.
 
+example: `fa-solid fa-envelope`
+
 ### Link Lists
 
 To update link list , open `content/index.md`
