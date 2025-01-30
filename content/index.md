@@ -5,6 +5,8 @@ description: "The American Indian Law Alliance (AILA) is an Indigenous NGO that 
 image: "/images/aila-cover-originial.png"
 text: "American Indian Law Alliance: An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)"
 link_list:
+ - name: "AILA Press Release on Immigration"
+   url: "https://aila.ngo/press-release-on-immigration/"
  - name: "AILA Event Photo Galleries"
    url: "https://photo.aila.ngo/"
  - name: "Statement from the Global Indigenous Women’s Caucus GIWC 2024"
