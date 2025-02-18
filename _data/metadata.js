@@ -12,7 +12,7 @@ export default {
 		twitter: "https://twitter.com/AILAnyc"
 	},
 	author: {
-		name: "Adam Dj Brett",
+		name: "Adam DJ Brett",
 		email: "info@adamdjbrett.com",
 		url: "https://adamdjbrett.com"
 	}

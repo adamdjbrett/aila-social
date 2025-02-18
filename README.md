@@ -1,16 +1,16 @@
 # Adam Lists Links
 
-Developer : [Adam Dj Brett](https://adamdjbrett.com)
+Developer : [Adam DJ Brett](https://adamdjbrett.com)
 
 For Link Lists
 
 Mobile Test
 
-![Adam Dj Brett Link Lists](mobile.png)
+![Adam DJ Brett Link Lists](mobile.png)
 
 Desktop Test
 
-![Adam Dj Brett Link Lists](desktop.png)
+![Adam DJ Brett Link Lists](desktop.png)
 
 ### First Setup
 

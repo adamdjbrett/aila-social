@@ -66,11 +66,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Adam Dj Brett Link",
-			subtitle: "Link list for Adam Dj Brett.",
-			base: "https://adamdjbrett.com/",
+			title: "AILA Social",
+			subtitle: "American Indian Law Alliance Social Links",
+			base: "https://aila.ngo/",
 			author: {
-				name: "Adam Dj Brett"
+				name: "Adam DJ Brett"
 			}
 		}
 	});
