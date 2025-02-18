@@ -58,4 +58,6 @@ link_list:
     url: https://aila.ngo/wp-content/uploads/2022/05/Doctrine-of-Discovery-Booklet-rev3.1.pdf
   - name: Prelminary Report on Doctrine of Discovery
     url: https://aila.ngo/wp-content/uploads/2010/09/DOD5.pdf
+  - name: Stop Mike Huckabee
+    url: https://christiansforafreepalestine.com/about
 ---
