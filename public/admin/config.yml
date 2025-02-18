@@ -1,0 +1,79 @@
+local_backend: true
+backend:
+  name: git-gateway
+  branch: main 
+media_folder: 'public/img'
+public_folder: '/img'
+
+collections:
+  - name: "pages"
+    label: "Main Page"
+    files:
+      - file: "content/index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Text", name: "text", widget: "string"}
+          - label: "Link List"
+            name: "link_list"
+            widget: "list"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "URL", name: "url", widget: "string"}
+  - name: "settings"
+    label: "Site Settings"
+    files:
+      - name: "general"
+        label: "General Settings"
+        file: "_data/config.yaml"
+        fields:
+          - {label: "Navbar Title", name: "navbar_title", widget: "string"}
+          - {label: "Cover Image", name: "image", widget: "image"}
+          
+          - label: "Navbar"
+            name: "navbar"
+            widget: "list"
+            fields:
+              - {label: "Navigation Item", name: "nav", widget: "string"}
+              - {label: "Link", name: "link", widget: "string"}
+          
+          - label: "Footer"
+            name: "footer"
+            widget: "list"
+            fields:
+              - {label: "Icon", name: "icon", widget: "string"}
+              - {label: "Link", name: "link", widget: "string"}
+              - {label: "Title", name: "title", widget: "string"}
+          
+          - label: "Copyrights"
+            name: "copyrights"
+            widget: "object"
+            fields:
+              - {label: "Text 1", name: "text1", widget: "string"}
+              - {label: "Text 2", name: "text2", widget: "string"}
+              - {label: "Text 2 Link", name: "text2_link", widget: "string"}
+              - {label: "Text 3", name: "text3", widget: "string"}
+              - {label: "Text 4", name: "text4", widget: "string"}
+              - {label: "Text 4 Link", name: "text4_link", widget: "string"}
+  - name: "redirects"
+    label: "Redirects"
+    files:
+      - name: "redirect"
+        label: "Redirect Settings"
+        file: "_data/redirect.yaml"
+        fields:
+          - label: "Redirect Items"
+            name: "item"
+            widget: "list"
+            fields:
+              - {label: "From", name: "from", widget: "string"}
+              - {label: "To", name: "to", widget: "string"}
+# Preview Templates
+preview_styles: ["/admin/main.css","/admin/bs.css"]
+
+# Editor Components
+editor:
+  preview: true
