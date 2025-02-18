@@ -51,41 +51,11 @@ link_list:
     url: https://www.docip.org/en/
   - name: Our Website
     url: https://aila.ngo/
-  - name: DOCIP Translation Request form
-    url: https://bit.ly/TRANSLATIONS-UNPFII23
-  - name: "Side Event: Extractive Industries, Environmental Violence And Trafficking
-      Of Indigenous Women And Girls"
-    url: https://aila.ngo/unpfii-side-event-extractive-industries-environmental-violence-and-trafficking-of-indigenous-women-and-girls/
   - name: General recommendation No. 39 (2022) on the rights of Indigenous women and
       girls, CEDAW/C/GC/39
     url: https://www.ohchr.org/en/documents/general-comments-and-recommendations/general-recommendation-no39-2022-rights-indigeneous
-  - name: Concluded 2024 events
-    url: "#"
-  - name: Global Indigenous People’s Caucus 2024 Invitation
-    url: https://aila.ngo/global-indigenous-peoples-caucus-2024/
-  - name: GIPC English Collaborative Document
-    url: https://aila.li/gipc-en
-  - name: Documento colaborativo Español del GIPC
-    url: https://aila.li/gipc-es
-  - name: Document Collaboratif Français du GIPC
-    url: https://aila.li/gipc-fr
-  - name: Российский совместный документ GIPC
-    url: https://aila.li/gipc-ru
-  - name: Preparatory Meeting of the Global Indigenous Youth Caucus
-    url: https://www.docip.org/en/indigenous-peoples-at-the-un/permanent-forum/unpfii-information-on-the-23rd-session/
-  - name: Documento Colaborativo GIWC Español
-    url: https://aila.li/giwc-es
-  - name: GIWC English Collaborative Document
-    url: https://aila.li/giwc-en
-  - name: Global Indigenous Women's Caucus 2024 Invitation
-    url: https://aila.ngo/global-indigenous-womens-caucus-2024/
   - name: Doctrine of Discovery Booklet (PDF)
     url: https://aila.ngo/wp-content/uploads/2022/05/Doctrine-of-Discovery-Booklet-rev3.1.pdf
   - name: Prelminary Report on Doctrine of Discovery
     url: https://aila.ngo/wp-content/uploads/2010/09/DOD5.pdf
-  - name: "The Restore Our Sacred Lake 5K and Haudenosaunee Wooden Stick Festival
-      #laxweekend"
-    url: https://aila.ngo/the-restore-our-sacred-lake-5k-and-haudenosaunee-wooden-stick-festival-weekend-september-14th-and-15th-at-onondaga-lake-park/
-  - name: Example
-    url: https://example.com
 ---
