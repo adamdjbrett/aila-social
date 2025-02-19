@@ -10,6 +10,8 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "AP Press Release: Onondaga Land Rights and Our Common Future: The Quest for Justice"
     url: "https://apnews.com/press-release/ein-presswire-newsmatics/syracuse-715c087e4d8f1ba6ea8d5dd75aa91976"
+  - name: "Ask the Onondaga County Executive to Keep His Promise to Return Maple Bay"
+    url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"  
   - name: AILA Press Release on Immigration
     url: https://aila.ngo/press-release-on-immigration/
   - name: AILA Event Photo Galleries
