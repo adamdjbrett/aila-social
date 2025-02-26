@@ -8,6 +8,8 @@ image: /images/aila-cover-originial.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Return Maple Bay #lakeback"
+    url: "https://lakeback.org"
   - name: "AP Press Release: Onondaga Land Rights and Our Common Future: The Quest for Justice"
     url: "https://apnews.com/press-release/ein-presswire-newsmatics/syracuse-715c087e4d8f1ba6ea8d5dd75aa91976"
   - name: "Ask the Onondaga County Executive to Keep His Promise to Return Maple Bay"
