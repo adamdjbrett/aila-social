@@ -10,7 +10,7 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "Return Maple Bay #lakeback"
     url: "https://lakeback.org"
-  - name: "Send a Message"
+  - name: "Send a letter Onondaga County Executive"
     url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"
   - name: Join the newsletter
     url: "https://lakeback.org/action/"
