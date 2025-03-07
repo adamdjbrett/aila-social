@@ -14,10 +14,12 @@ link_list:
     url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"
   - name: Join the newsletter
     url: "https://lakeback.org/action/"
+  - name: "American Indian Law Alliance"
+    url: "https://aila.ngo"  
+  - name: "Indigenous Values Initiative"
+    url: "https://indigenousvalues.org/"
   - name: "Neighbors of Onondaga Nation"
     url: "https://peacecouncil.net/noon/home/"
-  - name: "Indigenous Values Initiative"
-    url: "https://indigenousvalues.org/"  
-  - name: "Syracuse Cultural Workers"
-    url: "https://syracuseculturalworkers.com/"  
+  - name: "Syracuse Peace Council"
+    url: "https://peacecouncil.net/"      
 ---
