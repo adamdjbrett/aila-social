@@ -8,6 +8,8 @@ image: /images/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Get Involved"
+    url: "https://forms.gle/AwMoEbu9ejQzwxXq8"
   - name: "Return Maple Bay #lakeback"
     url: "https://lakeback.org"
   - name: "Send a letter Onondaga County Executive"
