@@ -12,7 +12,7 @@ link_list:
     url: "https://forms.gle/AwMoEbu9ejQzwxXq8"
   - name: "Return Maple Bay #lakeback"
     url: "https://lakeback.org"
-  - name: "Send a letter Onondaga County Executive"
+  - name: "Send a letter to the Onondaga County Executive"
     url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"
   - name: Join the newsletter
     url: "https://lakeback.org/action/"
