@@ -8,6 +8,8 @@ image: /images/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
+    url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
   - name: "Get Involved"
     url: "https://forms.gle/AwMoEbu9ejQzwxXq8"
   - name: "Return Maple Bay #lakeback"
