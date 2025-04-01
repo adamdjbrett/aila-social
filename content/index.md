@@ -26,6 +26,8 @@ link_list:
     url: "https://aila.ngo/announcing-the-2025-indigenous-craft-fair/"
   - name: "UNPFII Twenty-fourth Session: 21 April - 2 May 2025"
     url: "https://social.desa.un.org/issues/indigenous-peoples/unpfii/24th-session"   
+  - name: "Side Event: the Creators Game: Peace, Friendship & Diplomacy"
+    url: "https://aila.ngo/side-event-the-creators-game-peace-friendship-diplomacy/"  
   - name: "American Indian Law Alliance"
     url: "https://aila.ngo"     
 ---
