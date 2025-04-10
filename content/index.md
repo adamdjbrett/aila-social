@@ -8,16 +8,6 @@ image: /images/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
-  - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
-    url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
-  - name: "Get Involved"
-    url: "https://forms.gle/AwMoEbu9ejQzwxXq8"
-  - name: "Return Maple Bay #lakeback"
-    url: "https://lakeback.org"
-  - name: "Send a letter to the Onondaga County Executive"
-    url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"
-  - name: Join the newsletter
-    url: "https://lakeback.org/action/"
   - name: "2025 Global Indigenous Women’s Caucus (GIWC)"
     url: "https://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/"  
   - name: "2025 GIWC Agenda (EN/ES/FR/RU)"
@@ -32,6 +22,16 @@ link_list:
     url: "https://social.desa.un.org/issues/indigenous-peoples/unpfii/24th-session"   
   - name: "Side Event: the Creators Game: Peace, Friendship & Diplomacy"
     url: "https://aila.ngo/side-event-the-creators-game-peace-friendship-diplomacy/"  
+  - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
+    url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
+  - name: "Get Involved"
+    url: "https://forms.gle/AwMoEbu9ejQzwxXq8"
+  - name: "Return Maple Bay #lakeback"
+    url: "https://lakeback.org"
+  - name: "Send a letter to the Onondaga County Executive"
+    url: "https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay"
+  - name: Join the newsletter
+    url: "https://lakeback.org/action/"
   - name: "American Indian Law Alliance"
     url: "https://aila.ngo"     
 ---
