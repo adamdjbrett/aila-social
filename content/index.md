@@ -24,6 +24,8 @@ link_list:
     url: "https://aila.ngo/side-event-the-creators-game-peace-friendship-diplomacy/"  
   - name: "Side Event: Protecting Land, Rights, and Future Generations: Indigenous Women on the Frontlines of Climate Action and Earth Defense"
     url: https://www.wecaninternational.org/event-details/protecting-land-rights-and-future-generations-indigenous-women-on-the-frontlines-of-climate-action-and-earth-defense
+  - name: "UNPFII Side Event: Celebrating International Leadership of Indigenous Peoples"
+    url: https://aila.ngo/unpfii-side-event-celebrating-international-leadership-of-indigenous-peoples/
   - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
     url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
   - name: "Get Involved"
