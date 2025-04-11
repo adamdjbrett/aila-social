@@ -4,7 +4,7 @@ title: American Indian Law Alliance
 description: The American Indian Law Alliance (AILA) is an Indigenous NGO that
   works with Indigenous nations, communities, and organizations in our struggle
   for sovereignty, human rights, and social justice for our peoples.
-image: /images/lakeback-header.png
+image: /images/UNPFII.jpg
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
@@ -20,12 +20,14 @@ link_list:
     url: "https://aila.ngo/announcing-the-2025-indigenous-craft-fair/"
   - name: "UNPFII Twenty-fourth Session: 21 April - 2 May 2025"
     url: "https://social.desa.un.org/issues/indigenous-peoples/unpfii/24th-session"   
-  - name: "Side Event: the Creators Game: Peace, Friendship & Diplomacy"
+  - name: "UNPFII Side Event: the Creators Game: Peace, Friendship & Diplomacy"
     url: "https://aila.ngo/side-event-the-creators-game-peace-friendship-diplomacy/"  
-  - name: "Side Event: Protecting Land, Rights, and Future Generations: Indigenous Women on the Frontlines of Climate Action and Earth Defense"
+  - name: "UNPFII Side Event: Protecting Land, Rights, and Future Generations: Indigenous Women on the Frontlines of Climate Action and Earth Defense"
     url: https://www.wecaninternational.org/event-details/protecting-land-rights-and-future-generations-indigenous-women-on-the-frontlines-of-climate-action-and-earth-defense
   - name: "UNPFII Side Event: Celebrating International Leadership of Indigenous Peoples"
     url: https://aila.ngo/unpfii-side-event-celebrating-international-leadership-of-indigenous-peoples/
+  - name: "UNPFII Side Event: Protecting Land, Rights, and Future Generations"
+    url: https://aila.ngo/unpfii-side-event-protecting-land-rights-and-future-generations/  
   - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
     url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
   - name: "Get Involved"
