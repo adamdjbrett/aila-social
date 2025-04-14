@@ -28,6 +28,8 @@ link_list:
     url: https://aila.ngo/unpfii-side-event-celebrating-international-leadership-of-indigenous-peoples/
   - name: "UNPFII Side Event: Protecting Land, Rights, and Future Generations"
     url: https://aila.ngo/unpfii-side-event-protecting-land-rights-and-future-generations/  
+  - name: "UNPFII Side Event: Memories For The Future"
+    url: https://aila.ngo/unpfii-side-event-memories-for-the-future/
   - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
     url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
   - name: "Get Involved"
