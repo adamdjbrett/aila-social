@@ -19,6 +19,14 @@ link_list:
     url: "https://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/"
   - name: "2025 GIPC Agenda (EN/ES/FR/RU)"
     url: "https://docs.google.com/document/d/1h61LwAPDAd9Oe0jv68N6GPIXo_5YPBhU3vBs5UW0Gug/edit?usp=sharing" 
+  - name: "GIPC English"
+    url:  https://aila.li/gipc-en
+  - name: "GIPC Español"
+    url:  https://aila.li/gipc-es
+  - name: "GIPC Français"
+    url:  https://aila.li/gipc-fr
+  - name: "GIPC Россия"
+    url:   https://aila.li/gipc-ru
   - name: "2025 Craft Fair"
     url: "https://aila.ngo/announcing-the-2025-indigenous-craft-fair/"
   - name: "UNPFII Twenty-fourth Session: 21 April - 2 May 2025"
