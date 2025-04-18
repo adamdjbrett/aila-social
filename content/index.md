@@ -41,6 +41,8 @@ link_list:
     url: https://aila.ngo/unpfii-side-event-protecting-land-rights-and-future-generations/  
   - name: "UNPFII Side Event: Memories For The Future"
     url: https://aila.ngo/unpfii-side-event-memories-for-the-future/
+  - name: "Joint Letter by the UN Permanent Forum on Indigenous Issues, the Expert Mechanism on the Rights of Indigenous Peoples and the Special Rapporteur on the Rights of Indigenous Peoples- April 2025"
+    url: https://social.desa.un.org/issues/indigenous-peoples/news/joint-letter-by-Indigenous-mechanisms-on-Indigenous-participation
   - name: "‘The blood in our veins’: Onondagas reignite effort to win back Maple Bay, a foothold on Onondaga Lake"
     url: "https://centralcurrent.org/the-blood-in-our-veins-onondagas-reignite-effort-to-win-back-maple-bay-a-foothold-on-onondaga-lake/"
   - name: "Get Involved"
