@@ -9,6 +9,10 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "2025 Global Indigenous Women’s Caucus (GIWC)"
     url: "https://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/"  
+  - name: "GIWC English"
+    url:  https://aila.li/giwc-en
+  - name: "GIWC Español"
+    url:  https://aila.li/giwc-es
   - name: "2025 GIWC Agenda (EN/ES/FR/RU)"
     url: "https://docs.google.com/document/d/1qV_6PUF486qxQqZsOAJVEe3FDoqMG3_ck4LFwro_mQA/edit?usp=sharing"  
   - name: "2025 Global Indigenous Peoples’ Caucus (GIPC)"
