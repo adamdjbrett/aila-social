@@ -7,8 +7,12 @@ description: The American Indian Law Alliance (AILA) is an Indigenous NGO that
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
-  - name: "PRIDE DAY at Skä•noñh: Great Law of Peace Center"
-    url: https://aila.li/pride
+  - name: "Sign our Petition" 
+    url: https://lakeback.org/petition/
+  - name: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning: bargaining chip"
+    url: https://centralcurrent.org/onondaga-county-executive-ryan-mcmahon-gives-columbus-statue-new-meaning-bartering-chip/
+  - name: "Send a Postcard"
+    url: https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay
   - name: "Community Vision for Strong Environmental, Resident, & Worker Protections: Micron Environmental Review"
     url: https://actionnetwork.org/petitions/community-vision-for-strong-environmental-resident-worker-protections-micron-environmental-review?source=direct_link&
   - name: "Community Voices Demand a Just Future for Central New York"
