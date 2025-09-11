@@ -7,6 +7,18 @@ description: The American Indian Law Alliance (AILA) is an Indigenous NGO that
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "AILA prepares to host 10th annual Haudenosaunee Wooden Stick Festival"
+    url: https://dailyorange.com/2025/09/aila-host-10th-haudenosaunee-wooden-stick-festival/
+  - name: "Faithkeeper Oren Lyons’ endless quest to preserve Indigenous values" 
+    url: https://dailyorange.com/2025/09/haudenosaunee-oren-lyons-quest-to-preserve-indigenous-values/
+  - name: "Roy Simmons Jr. didn’t just teach lacrosse. He showed others how to love the game."
+    url: https://dailyorange.com/2025/09/syracuse-mens-lacrosse-roy-simmons-jr-teach-lacrosse/
+  - name: "Haudenosaunee Wooden Stick Festival and Restore Our Sacred Lake 5K"
+    url: http://aila.li/wsf
+  - name: "Race Signup"
+    url: https://aila.li/run
+  - name: "Alfie Jacques Ambassador Award"
+    url: https://alfieaward.com/ 
   - name: "Sign our Petition" 
     url: https://lakeback.org/petition/
   - name: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning: bargaining chip"
