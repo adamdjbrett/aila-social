@@ -35,7 +35,7 @@ link_list:
     url: https://secure.actblue.com/donate/seth-eastman-poster
   - name: "Haudenosaunee Development Group Swag Pack"
     url: https://secure.actblue.com/donate/hndg-sweatshirt-size-s
-  - name:  "General Silent Auction"
+  - name: "General Silent Auction"
     url: https://secure.actblue.com/donate/ajaa
   - name: "AILA prepares to host 10th annual Haudenosaunee Wooden Stick Festival"
     url: https://dailyorange.com/2025/09/aila-host-10th-haudenosaunee-wooden-stick-festival/
