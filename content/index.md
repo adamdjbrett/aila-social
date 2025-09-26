@@ -7,6 +7,8 @@ description: The American Indian Law Alliance (AILA) is an Indigenous NGO that
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Sean Kirst: At 95, Oren Lyons trusts SU and its skilled archivists with his treasury of papers"
+    url: https://centralcurrent.org/sean-kirst-at-95-oren-lyons-trusts-su-and-its-skilled-archivists-with-his-treasury-of-papers/
   - name: "Sign our Petition" 
     url: https://lakeback.org/petition/
   - name: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning: bargaining chip"
