@@ -10,9 +10,9 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "What are we celebrating with the Erie Canal? A gash in Mother Earth"
     url: https://www.syracuse.com/opinion/2025/10/what-are-we-celebrating-with-the-erie-canal-a-gash-in-mother-earth-guest-opinion-by-betty-hill-adam-dj-brett.html
-  - url: https://docs.google.com/document/d/1R6wlFMmUixJckkfGOjTwumtaCV5gxVlWqCWHY4mXD00/edit?usp=drivesdk
-    name: "Tonawanda Seneca Statement at the 2025 Canals Conference "
-  - name: "Sean Kirst: At 95, Oren Lyons trusts SU and its skilled archivists with
+  - name: "Tonawanda Seneca Statement at the 2025 Canals Conference"
+    url: https://docs.google.com/document/d/1R6wlFMmUixJckkfGOjTwumtaCV5gxVlWqCWHY4mXD00/edit?usp=drivesdk
+  - name: "Oren Lyons trusts SU and its skilled archivists with
       his treasury of papers"
     url: https://centralcurrent.org/sean-kirst-at-95-oren-lyons-trusts-su-and-its-skilled-archivists-with-his-treasury-of-papers/
   - name: Sign our Petition
