@@ -8,6 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Unraveling the Roots of Colonization in New York State"
+    url: https://givebutter.com/unravelingcolonization
   - name: "What are we celebrating with the Erie Canal? A gash in Mother Earth"
     url: https://www.syracuse.com/opinion/2025/10/what-are-we-celebrating-with-the-erie-canal-a-gash-in-mother-earth-guest-opinion-by-betty-hill-adam-dj-brett.html
   - name: "Tonawanda Seneca Statement at the 2025 Canals Conference"
