@@ -8,6 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Onondaga ‘LakeBack’ protest shades arrival of Seneca Chief with history of harm"
+    url: https://centralcurrent.org/onondaga-lakeback-protest-shades-arrival-of-seneca-chief-with-history-of-harm/
   - name: "Unraveling the Roots of Colonization in New York State"
     url: https://givebutter.com/unravelingcolonization
   - name: "What are we celebrating with the Erie Canal? A gash in Mother Earth"
