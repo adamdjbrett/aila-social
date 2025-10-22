@@ -8,6 +8,10 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
+    url: https://actionnetwork.org/letters/return-maple-bay-to-the-onondaga-nation?source=direct_link&
+  - name: "A sacred lake, a Columbus statue, and an Indigenous people’s long struggle for land"
+    url: https://apnews.com/article/native-american-land-back-onondaga-lake-columbus-ff2b7fb199c60f7dc7302f7613ddbaa6#
   - name: "Onondaga ‘LakeBack’ protest shades arrival of Seneca Chief with history of harm"
     url: https://centralcurrent.org/onondaga-lakeback-protest-shades-arrival-of-seneca-chief-with-history-of-harm/
   - name: "Unraveling the Roots of Colonization in New York State"
