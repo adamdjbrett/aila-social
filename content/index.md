@@ -24,6 +24,8 @@ link_list:
   - name: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning:
       bargaining chip"
     url: https://centralcurrent.org/onondaga-county-executive-ryan-mcmahon-gives-columbus-statue-new-meaning-bartering-chip/
+  - name: "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land"
+    url: https://commons.lib.jmu.edu/ijr/vol9/iss1/2/
   - name: Send a Postcard
     url: https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay
   - name: "Community Vision for Strong Environmental, Resident, & Worker
