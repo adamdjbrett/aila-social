@@ -10,25 +10,29 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
     url: https://actionnetwork.org/letters/return-maple-bay-to-the-onondaga-nation?source=direct_link&
-  - name: "A sacred lake, a Columbus statue, and an Indigenous people’s long struggle for land"
+  - name: JCRT
+    url: https://jcrt.org
+  - name: A sacred lake, a Columbus statue, and an Indigenous people’s long struggle
+      for land
     url: https://apnews.com/article/native-american-land-back-onondaga-lake-columbus-ff2b7fb199c60f7dc7302f7613ddbaa6#
-  - name: "Onondaga ‘LakeBack’ protest shades arrival of Seneca Chief with history of harm"
+  - name: Onondaga ‘LakeBack’ protest shades arrival of Seneca Chief with history of
+      harm
     url: https://centralcurrent.org/onondaga-lakeback-protest-shades-arrival-of-seneca-chief-with-history-of-harm/
-  - name: "Unraveling the Roots of Colonization in New York State"
+  - name: Unraveling the Roots of Colonization in New York State
     url: https://givebutter.com/unravelingcolonization
-  - name: "What are we celebrating with the Erie Canal? A gash in Mother Earth"
+  - name: What are we celebrating with the Erie Canal? A gash in Mother Earth
     url: https://www.syracuse.com/opinion/2025/10/what-are-we-celebrating-with-the-erie-canal-a-gash-in-mother-earth-guest-opinion-by-betty-hill-adam-dj-brett.html
-  - name: "Tonawanda Seneca Statement at the 2025 Canals Conference"
+  - name: Tonawanda Seneca Statement at the 2025 Canals Conference
     url: https://docs.google.com/document/d/1R6wlFMmUixJckkfGOjTwumtaCV5gxVlWqCWHY4mXD00/edit?usp=drivesdk
-  - name: "Oren Lyons trusts SU and its skilled archivists with
-      his treasury of papers"
+  - name: Oren Lyons trusts SU and its skilled archivists with his treasury of papers
     url: https://centralcurrent.org/sean-kirst-at-95-oren-lyons-trusts-su-and-its-skilled-archivists-with-his-treasury-of-papers/
   - name: Sign our Petition
     url: https://lakeback.org/petition/
   - name: "Onondaga County Executive Ryan McMahon gives Columbus statue new meaning:
       bargaining chip"
     url: https://centralcurrent.org/onondaga-county-executive-ryan-mcmahon-gives-columbus-statue-new-meaning-bartering-chip/
-  - name: "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land"
+  - name: "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor
+      Indigenous Land"
     url: https://commons.lib.jmu.edu/ijr/vol9/iss1/2/
   - name: Send a Postcard
     url: https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay
