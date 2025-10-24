@@ -1,6 +1,6 @@
 CMS.registerPreviewStyle("/admin/bs.css");
 CMS.registerPreviewStyle("/admin/main.css");
-CMS.registerPreviewStyle("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
+// CMS.registerPreviewStyle("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css");
  
 const SettingsPreview = createClass({
   render() {
