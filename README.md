@@ -12,6 +12,11 @@ Desktop Test
 
 ![Adam DJ Brett Link Lists](desktop.png)
 
+## Score
+![four lightning 100 scores](four-hundos.png)
+
+## Setup
+
 ### First Setup
 
 Open `_data/metadata.js`
