@@ -20,7 +20,8 @@ export default async function(eleventyConfig) {
 	eleventyConfig
 		.addPassthroughCopy({
 			"./public/": "/",
-			"./content/images": "/images"
+			"./content/images": "/images",
+			"./content/humans.txt": "/humans.txt"
 		})
 		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
 
