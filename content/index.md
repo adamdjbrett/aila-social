@@ -8,6 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Nuclear power is wrong for New York, environmentally and economically"
+    url: https://www.timesunion.com/opinion/article/nuclear-power-wrong-new-york-environmentally-21125124.php
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
     url: https://actionnetwork.org/letters/return-maple-bay-to-the-onondaga-nation?source=direct_link&
   - name: A sacred lake, a Columbus statue, and an Indigenous people’s long struggle
