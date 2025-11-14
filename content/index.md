@@ -8,6 +8,12 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: Unraveling the Roots of Colonization in New York State
+    url: https://givebutter.com/unravelingcolonization
+  - name: "Harvest Arts & Crafts Market"
+    url:  https://aila.ngo/harvest-arts-crafts-market/
+  - name: "Annual ‘Rethinking Thanksgiving’ Webinar Colonialism is the Problem, Solidarity is the Answer"
+    url: https://tinyurl.com/2025rethinking  
   - name: "Nuclear power is wrong for New York, environmentally and economically"
     url: https://www.timesunion.com/opinion/article/nuclear-power-wrong-new-york-environmentally-21125124.php
   - name: "Read the Ruling"
@@ -20,8 +26,6 @@ link_list:
   - name: Onondaga ‘LakeBack’ protest shades arrival of Seneca Chief with history of
       harm
     url: https://centralcurrent.org/onondaga-lakeback-protest-shades-arrival-of-seneca-chief-with-history-of-harm/
-  - name: Unraveling the Roots of Colonization in New York State
-    url: https://givebutter.com/unravelingcolonization
   - name: What are we celebrating with the Erie Canal? A gash in Mother Earth
     url: https://www.syracuse.com/opinion/2025/10/what-are-we-celebrating-with-the-erie-canal-a-gash-in-mother-earth-guest-opinion-by-betty-hill-adam-dj-brett.html
   - name: Tonawanda Seneca Statement at the 2025 Canals Conference
