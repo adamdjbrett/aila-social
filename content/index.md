@@ -8,8 +8,6 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
-  - name: Unraveling the Roots of Colonization in New York State
-    url: https://givebutter.com/unravelingcolonization
   - name: "Harvest Arts & Crafts Market"
     url:  https://aila.ngo/harvest-arts-crafts-market/
   - name: "Annual ‘Rethinking Thanksgiving’ Webinar Colonialism is the Problem, Solidarity is the Answer"
@@ -19,7 +17,7 @@ link_list:
   - name: "Read the Ruling"
     url: https://cases.justia.com/federal/district-courts/new-york/nysdce/7:2024cv02929/619761/48/0.pdf
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
-    url: https://actionnetwork.org/letters/return-maple-bay-to-the-onondaga-nation?source=direct_link&
+    url: https://aila.li/return
   - name: A sacred lake, a Columbus statue, and an Indigenous people’s long struggle
       for land
     url: https://apnews.com/article/native-american-land-back-onondaga-lake-columbus-ff2b7fb199c60f7dc7302f7613ddbaa6#
@@ -41,7 +39,7 @@ link_list:
       Indigenous Land"
     url: https://commons.lib.jmu.edu/ijr/vol9/iss1/2/
   - name: Send a Postcard
-    url: https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay
+    url: https://aila.li/return
   - name: "Community Vision for Strong Environmental, Resident, & Worker
       Protections: Micron Environmental Review"
     url: https://actionnetwork.org/petitions/community-vision-for-strong-environmental-resident-worker-protections-micron-environmental-review?source=direct_link&
@@ -55,7 +53,7 @@ link_list:
   - name: "Return Maple Bay #lakeback"
     url: https://lakeback.org
   - name: Send a letter to the Onondaga County Executive
-    url: https://actionnetwork.org/letters/ask-the-onondaga-county-executive-to-keep-his-promise-to-return-maple-bay
+    url: https://aila.li/return
   - name: Join the newsletter
     url: https://lakeback.org/action/
   - name: "Vol. 5 No. 2 (2024): From Indigenous Religions to Indigenous Values"
