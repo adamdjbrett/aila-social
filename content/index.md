@@ -8,14 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
-  - name: "Harvest Arts & Crafts Market"
-    url:  https://aila.ngo/harvest-arts-crafts-market/
-  - name: "Annual ‘Rethinking Thanksgiving’ Webinar Colonialism is the Problem, Solidarity is the Answer"
-    url: https://tinyurl.com/2025rethinking  
-  - name: "Nuclear power is wrong for New York, environmentally and economically"
-    url: https://www.timesunion.com/opinion/article/nuclear-power-wrong-new-york-environmentally-21125124.php
-  - name: "Read the Ruling"
-    url: https://cases.justia.com/federal/district-courts/new-york/nysdce/7:2024cv02929/619761/48/0.pdf
+  - name: "Giving Tuesday"
+    url: https://aila.li/tuesday
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
     url: https://aila.li/return
   - name: A sacred lake, a Columbus statue, and an Indigenous people’s long struggle
