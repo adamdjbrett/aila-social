@@ -8,6 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Matlida Joslyn Gage Center Event: Haudenosaunee Influences on the Women's Rights Movement"
+    url: https://aila.li/mjg/
   - name: "Giving Tuesday"
     url: https://aila.li/tuesday
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
