@@ -8,6 +8,10 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Business Sign On Letter"
+    url: https://lakeback.org/business/
+  - name: "Coalition Sign on Letter"
+    url:  https://lakeback.org/coalition/
   - name: "Shop the AILA Store"
     url: https://store.aila.ngo
   - name: "Sign our Petition: Return Maple Bay to the Onondaga Nation!"
