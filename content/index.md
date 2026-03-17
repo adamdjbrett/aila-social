@@ -8,6 +8,12 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "2026 Global Indigenous Women's Caucus"
+    url: "https://aila.ngo/announcing-the-2026-global-indigenous-womens-caucus-giwc/"
+  - name: "2026 Global Indigenous People's Caucus"
+    url: "https://aila.ngo/announcing-the-2026-global-indigenous-peoples-caucus-gipc/"  
+  - name: "2026 Indigenous Peoples Craft Fair"
+    url: "https://aila.ngo/announcing-the-2026-indigenous-craft-fair/"
   - name: "Business Sign On Letter"
     url: https://lakeback.org/business/
   - name: "Coalition Sign on Letter"
