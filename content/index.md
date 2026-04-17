@@ -10,10 +10,16 @@ text: "American Indian Law Alliance: An NGO in consultative status with the
 link_list:
   - name: "2026 Global Indigenous Women's Caucus"
     url: "https://aila.ngo/announcing-the-2026-global-indigenous-womens-caucus-giwc/"
+  - name: "2026 GIWC Notes Document - English"
+    url: "https://docs.google.com/document/d/1lRwA7RvVytwS1rWrqwmX2m_ujSs4DPk_H74iaTpSL3U/edit?usp=sharing"  
+  - name: "Documento de notas del GIWC 2026 - Español" 
+    url: "https://docs.google.com/document/d/1-2G70bX6kKscsI5ikyyBcqH4fgPURJUtkkCtYlItv6s/edit?usp=sharing"
   - name: "2026 Global Indigenous People's Caucus"
     url: "https://aila.ngo/announcing-the-2026-global-indigenous-peoples-caucus-gipc/"  
   - name: "2026 Indigenous Peoples Craft Fair"
     url: "https://aila.ngo/announcing-the-2026-indigenous-craft-fair/"
+  - name: "Memories For The Future: A 2026 UNPFII Side Event"
+    url: https://aila.ngo/memories-for-the-future-a-2026-unpfii-side-event/
   - name: "Business Sign On Letter"
     url: https://lakeback.org/business/
   - name: "Coalition Sign on Letter"
