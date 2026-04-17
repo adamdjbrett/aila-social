@@ -16,6 +16,16 @@ link_list:
     url: "https://docs.google.com/document/d/1-2G70bX6kKscsI5ikyyBcqH4fgPURJUtkkCtYlItv6s/edit?usp=sharing"
   - name: "2026 Global Indigenous People's Caucus"
     url: "https://aila.ngo/announcing-the-2026-global-indigenous-peoples-caucus-gipc/"  
+  - name: "2026 GIPC Notes Document English"
+    url: https://aila.lig/gipc-en/
+  - name: "Documento sobre las obligaciones de GIPC de 2026 (en español)"
+    url: https://aila.lig/gipc-es/
+  - name: "Document sur les obligations GIPC 2026 (en français)"
+    url: https://aila.lig/gipc-fr/
+  - name: "Documento sobre as Notas GIPC 2026 (em português)"
+    url: https://aila.lig/gipc-pt/ 
+  - name: "Документ по облигациям GIPC 2026 г. (на русском языке)"
+    url: https://aila.lig/gipc-ru/  
   - name: "2026 Indigenous Peoples Craft Fair"
     url: "https://aila.ngo/announcing-the-2026-indigenous-craft-fair/"
   - name: "Memories For The Future: A 2026 UNPFII Side Event"
