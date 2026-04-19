@@ -19,7 +19,7 @@ link_list:
   - name: "2026 GIPC Notes Document English"
     url: https://aila.lig/gipc-en/
   - name: "Documento sobre las obligaciones de GIPC de 2026 (en español)"
-    url: https://aila.lig/gipc-es/
+    url: https://aila.li/gipc-es/
   - name: "Document sur les obligations GIPC 2026 (en français)"
     url: https://aila.lig/gipc-fr/
   - name: "Documento sobre as Notas GIPC 2026 (em português)"
