@@ -26,6 +26,10 @@ link_list:
     url: https://aila.lig/gipc-pt/ 
   - name: "Документ по облигациям GIPC 2026 г. (на русском языке)"
     url: https://aila.lig/gipc-ru/  
+  - name: "UNPFII Note to Indigenous Peoples English"
+    url: https://social.desa.un.org/sites/default/files/UNPFII2026/Note_for_IndigenousPeoples_2026.pdf
+  - name: "NOTA PARA LOS PUEBLOS INDÍGENAS"
+    url:  https://social.desa.un.org/sites/default/files/UNPFII2026/NOTE%20FOR%20INDIGENOUS%20PEOPLES_Spanish.pdf 
   - name: "2026 Indigenous Peoples Craft Fair"
     url: "https://aila.ngo/announcing-the-2026-indigenous-craft-fair/"
   - name: "Memories For The Future: A 2026 UNPFII Side Event"
