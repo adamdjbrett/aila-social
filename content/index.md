@@ -8,6 +8,8 @@ image: /img/lakeback-header.png
 text: "American Indian Law Alliance: An NGO in consultative status with the
   United Nations Economic & Social Council (ECOSOC)"
 link_list:
+  - name: "Reappraising Columbus: Syracuse must finish what it started (Guest Opinion by WISH CNY)"
+    url: https://www.syracuse.com/opinion/2026/05/reappraising-columbus-syracuse-must-finish-what-it-started-guest-opinion-by-wish-cny.html
   - name: "2026 Global Indigenous Women's Caucus"
     url: "https://aila.ngo/announcing-the-2026-global-indigenous-womens-caucus-giwc/"
   - name: "2026 GIWC Notes Document - English"
