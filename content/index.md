@@ -19,15 +19,15 @@ link_list:
   - name: "2026 Global Indigenous People's Caucus"
     url: "https://aila.ngo/announcing-the-2026-global-indigenous-peoples-caucus-gipc/"  
   - name: "2026 GIPC Notes Document English"
-    url: https://aila.lig/gipc-en/
+    url: https://aila.li/gipc-en/
   - name: "Documento sobre las obligaciones de GIPC de 2026 (en español)"
     url: https://aila.li/gipc-es/
   - name: "Document sur les obligations GIPC 2026 (en français)"
-    url: https://aila.lig/gipc-fr/
+    url: https://aila.li/gipc-fr/
   - name: "Documento sobre as Notas GIPC 2026 (em português)"
-    url: https://aila.lig/gipc-pt/ 
+    url: https://aila.li/gipc-pt/ 
   - name: "Документ по облигациям GIPC 2026 г. (на русском языке)"
-    url: https://aila.lig/gipc-ru/  
+    url: https://aila.li/gipc-ru/  
   - name: "UNPFII Note to Indigenous Peoples English"
     url: https://social.desa.un.org/sites/default/files/UNPFII2026/Note_for_IndigenousPeoples_2026.pdf
   - name: "NOTA PARA LOS PUEBLOS INDÍGENAS"
@@ -51,6 +51,8 @@ link_list:
     url: https://aila.li/return
   - name: "Return Maple Bay #lakeback"
     url: https://lakeback.org
+  - name: "Listen to Healing the Sacred, the #lakeback podcast"
+    url: https://podcast.lakeback.org
   - name: Send a letter to the Onondaga County Executive
     url: https://aila.li/return
   - name: Join the newsletter

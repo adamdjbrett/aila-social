@@ -11,6 +11,28 @@ export default {
 		twitteruser: "@AILAnyc",
 		twitter: "https://twitter.com/AILAnyc"
 	},
+	// AILA, shared @id with aila.ngo, lakeback.org and podcast.lakeback.org. Rendered as JSON-LD in widgets/seo.njk.
+	organization: {
+		"@type": "Organization",
+		"@id": "https://aila.ngo/#organization",
+		name: "American Indian Law Alliance",
+		alternateName: "AILA",
+		description: "An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)",
+		url: "https://aila.ngo/",
+		logo: "https://aila.ngo/icon-512x512.png",
+		email: "aila@aila.ngo",
+		sameAs: [
+			"https://aila.social/",
+			"https://lakeback.org/",
+			"https://podcast.lakeback.org/",
+			"https://www.instagram.com/americanindianlawalliance",
+			"https://www.facebook.com/americanindianlawalliance",
+			"https://bsky.app/profile/aila.social",
+			"https://www.linkedin.com/company/american-indian-law-alliance",
+			"https://x.com/ailanyc",
+			"https://www.youtube.com/@aila-ngo"
+		]
+	},
 	author: {
 		name: "Adam DJ Brett",
 		email: "info@adamdjbrett.com",
