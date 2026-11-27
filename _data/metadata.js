@@ -11,7 +11,7 @@ export default {
 		twitteruser: "@AILAnyc",
 		twitter: "https://twitter.com/AILAnyc"
 	},
-	// AILA, shared @id with aila.ngo, lakeback.org and podcast.lakeback.org. Rendered as JSON-LD in widgets/seo.njk.
+	// AILA, shared @id with aila.ngo, lakeback.org and podcast.lakeback.org: keep it identical to aila.ngo's (src/_includes/schemas/Organization.njk there). Rendered as JSON-LD in widgets/seo.njk.
 	organization: {
 		"@type": "Organization",
 		"@id": "https://aila.ngo/#organization",
@@ -21,17 +21,28 @@ export default {
 		url: "https://aila.ngo/",
 		logo: "https://aila.ngo/icon-512x512.png",
 		email: "aila@aila.ngo",
+		address: {
+			"@type": "PostalAddress",
+			postOfficeBoxNumber: "336",
+			addressLocality: "DeWitt",
+			addressRegion: "NY",
+			postalCode: "13214-9211",
+			addressCountry: "US"
+		},
 		sameAs: [
 			"https://aila.social/",
 			"https://lakeback.org/",
 			"https://podcast.lakeback.org/",
+			"https://www.youtube.com/playlist?list=PLE98CAQgldhg",
+			"https://doctrineofdiscovery.org/",
+			"https://podcast.doctrineofdiscovery.org/",
+			"https://www.sullivanclinton.com/",
 			"https://www.instagram.com/americanindianlawalliance",
 			"https://www.facebook.com/americanindianlawalliance",
 			"https://bsky.app/profile/aila.social",
 			"https://www.linkedin.com/company/american-indian-law-alliance",
 			"https://x.com/ailanyc",
-			"https://www.youtube.com/@aila-ngo",
-			"https://www.youtube.com/playlist?list=PLE98CAQgldhg"
+			"https://www.youtube.com/@aila-ngo"
 		]
 	},
 	author: {
