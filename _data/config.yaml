@@ -23,6 +23,9 @@ footer:
  - icon: fa-brands fa-bluesky
    link: https://bsky.app/profile/aila.social
    title: Follow American Indian Law Alliance on Bluesky
+ - icon: fa-brands fa-mastodon
+   link: https://social.lol/@aila
+   title: Follow American Indian Law Alliance on Mastodon
  - icon: fa-solid fa-globe
    link: https://aila.ngo
    title: American Indian Law Alliance Official Site

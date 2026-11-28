@@ -42,7 +42,8 @@ export default {
 			"https://bsky.app/profile/aila.social",
 			"https://www.linkedin.com/company/american-indian-law-alliance",
 			"https://x.com/ailanyc",
-			"https://www.youtube.com/@aila-ngo"
+			"https://www.youtube.com/@aila-ngo",
+			"https://social.lol/@aila"
 		]
 	},
 	author: {
